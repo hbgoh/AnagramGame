@@ -17,6 +17,8 @@ public class Java1 {
     
     public static void main(String[] args) {
          System.out.println("Hi is me");
+         System.out.println("Hi bro nice to meet you!");
+         
     }
     
 }
